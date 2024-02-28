@@ -1,5 +1,5 @@
 RM = 1250
-Min = 60
+Min = 120
 Num1 = RM*Min
 print(f"El valor neto de la llamada es: {Num1}")
 
